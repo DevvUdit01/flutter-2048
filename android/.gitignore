@@ -1,0 +1,39 @@
+
+---
+
+## ✅ `.gitignore`
+
+Make sure you have a `.gitignore` in the root (if not already):
+
+```gitignore
+# Flutter & Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+build/
+.idea/
+.vscode/
+*.iml
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+web/.idea/
+
+# Windows
+windows/flutter/ephemeral/
+
+# iOS & Android
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+android/.gradle/
+android/app/key.properties
+android/local.properties
