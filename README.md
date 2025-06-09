@@ -29,6 +29,6 @@ This game supports swipe gestures, score tracking, high scores using `SharedPref
 
 ```bash
 git clone https://github.com/DevvUdit01/flutter-2048.git
-cd 2048-game
+cd flutter-2048
 flutter pub get
 flutter run
